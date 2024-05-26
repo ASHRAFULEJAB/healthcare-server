@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Next-Level-Project\\HealthCare-Server\\logs\\winston\\errors\\.43b13628dbc2f7461c84a52ceb1dbbcebe98c784-audit.json",
+    "files": [
+        {
+            "date": 1716713293204,
+            "name": "D:\\Next-Level-Project\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-26-05-14-error.log",
+            "hash": "b1c79200a25349ca30ce01ea338e45d3acf7f1c8bf97cca9093258f0f8280308"
+        },
+        {
+            "date": 1716714597452,
+            "name": "D:\\Next-Level-Project\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-26-05-15-error.log",
+            "hash": "99b4257bfe7397be1a70b97f6786544e785cde4d016eb59c80be3f62f9174a25"
+        }
+    ],
+    "hashType": "sha256"
+}
